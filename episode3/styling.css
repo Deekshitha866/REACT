@@ -1,0 +1,26 @@
+body {
+ background-image: url("https://www.shutterstock.com/image-photo/calm-weather-on-sea-ocean-600nw-2212935531.jpg");
+ background-attachment: fixed;
+ background-size: cover;
+ display: flex;
+
+}
+#searchBar{
+    background-color: transparent;
+    height: 400;
+    width: 600;
+    text-align: center;
+    padding:20px;
+    border: none;
+}
+#searchBar img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+
+
+
+  
